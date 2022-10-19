@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnkomarnicki/express-vue3-tailwind-map.git"
+    "url": "git+https://github.com/Jurason/express-vue3-tailwind-map.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johnkomarnicki/express-vue3-tailwind-map/issues"
+    "url": "https://github.com/Jurason/express-vue3-tailwind-map/issues"
   },
-  "homepage": "https://github.com/johnkomarnicki/express-vue3-tailwind-map#readme",
+  "homepage": "https://github.com/Jurason/express-vue3-tailwind-map#readme",
   "dependencies": {
     "axios": "^0.24.0",
     "cors": "^2.8.5",

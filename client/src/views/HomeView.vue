@@ -68,7 +68,7 @@ export default {
     const getGeolocation = () => {
       // if function is called, only run if we dont have coords
       if (!coords.value) {
-        // check to see if we have coods in session sotrage
+        // check to see if we have coods in session storage
         if (sessionStorage.getItem("coords")) {
           coords.value = JSON.parse(sessionStorage.getItem("coords"));
           plotGeoLocation(coords.value);
