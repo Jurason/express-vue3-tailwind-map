@@ -35,7 +35,7 @@ export default {
         .map("mapid", {
           zoomControl: false,
         })
-        .setView([28.538336, -81.379234], 10);
+        .setView([46.538336, 30.379234], 10);
 
       // add tile layers
       leaflet
